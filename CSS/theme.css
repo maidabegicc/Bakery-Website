@@ -32,7 +32,7 @@ body {
 }
 
 .header {
-  display: flex;
+  display: -ms-inline-flexbox;
   justify-content: space-between;
   align-items: center;
 }
